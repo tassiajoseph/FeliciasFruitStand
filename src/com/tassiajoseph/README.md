@@ -1,0 +1,1 @@
+A fruit stand project created with Java.
